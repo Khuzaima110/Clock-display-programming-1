@@ -27,3 +27,14 @@ Q8: No it did not, the results were the same and it did not increase at all
 
 Q10: Error: non-static method getValue() cannot be referenced from a static context
 
+Q11: Intead of display.setValue(int 5); you write display.setValue(5);
+
+Q13: 0
+
+Q14: 0 or the limit
+
+Q15: ! (4 < 5)    False
+! false         True
+(2 > 2) ((4 == 4) && (1 < 0)) ││     false
+(2 > 2) (4 == 4) && (1 < 0) ││      false
+(34 != 33) && ! false       true
